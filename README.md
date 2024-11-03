@@ -16,3 +16,5 @@ Abra o terminal e cole os seguintes prompts:
 flutter pub get             //Para instalar todas as dependencias
 flutterfire configure       // Para configurar o firebase em seu projeto
 ```
+
+É importante criar uma coleção chamada "tasks". Para que não haja problemas.
