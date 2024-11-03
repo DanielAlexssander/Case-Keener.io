@@ -46,7 +46,7 @@ class _MyWidgetState extends State<RegisterPage> {
                         _nameController, "Nome", false),
                     SizedBox(height: 15),
                     _generalWidgetsController.createTextField(
-                        _emailController, "Email", true),
+                        _emailController, "Email", false),
                     SizedBox(height: 15),
                     _generalWidgetsController.createTextField(
                         _passwordController, "Senha", true),
