@@ -5,7 +5,7 @@ Case Técnico para Vaga de Desenvolvedor Mobile com Flutter
 O projeto é uma aplicação em Flutter que simula um pequeno sistema de gestão de tarefas.
 
 Aqui está o projeto funcionando no mobile:
-<video controls src="Screen_Recording_20241103_204609_1.mp4" title="Title"></video>
+[Assista ao vídeo de demonstração](./Demonstrativo.mp4)
 
 ## Como rodar o Projeto
 
